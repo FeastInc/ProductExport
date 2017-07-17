@@ -10,6 +10,11 @@ namespace ProductExport
     {
         static void Main(string[] args)
         {
+            using (var example = new DBExport(server: "a", database: "a", user: "a", pass: "a"))
+            {
+                
+            }
+
         }
     }
 }
