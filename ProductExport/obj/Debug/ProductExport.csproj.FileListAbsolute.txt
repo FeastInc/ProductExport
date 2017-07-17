@@ -1,1 +1,2 @@
 D:\Проекты\ProductExport\ProductExport\bin\Debug\ProductExport.exe.config
+D:\ProductExport\ProductExport\bin\Debug\ProductExport.exe.config
